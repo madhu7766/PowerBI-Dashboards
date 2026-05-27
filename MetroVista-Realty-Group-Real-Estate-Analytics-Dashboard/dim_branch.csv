@@ -1,0 +1,14 @@
+Branch_ID,Branch_Name,City,Area,Branch_Type,Established_Year
+BR001,Colaba Branch,Mumbai,Colaba,Premium,2005
+BR002,Bandra Branch,Mumbai,Bandra West,Premium,2008
+BR003,Juhu Branch,Mumbai,Juhu,Premium,2010
+BR004,Powai Branch,Mumbai,Powai,Premium,2012
+BR005,Andheri Branch,Mumbai,Andheri West,Standard,2009
+BR006,Lower Parel Branch,Mumbai,Lower Parel,Standard,2011
+BR007,Marine Lines Branch,Mumbai,Marine Lines,Premium,2006
+BR008,Nariman Point Branch,Mumbai,Nariman Point,Premium,2004
+BR009,Vashi Branch,Navi Mumbai,Vashi,Standard,2013
+BR010,Nerul Branch,Navi Mumbai,Nerul,Standard,2014
+BR011,Kharghar Branch,Navi Mumbai,Kharghar,Standard,2015
+BR012,Thane Branch,Thane,Thane West,Standard,2011
+BR013,Thane East Branch,Thane,Thane East,Standard,2016
