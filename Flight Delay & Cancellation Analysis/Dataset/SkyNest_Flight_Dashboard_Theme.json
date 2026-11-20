@@ -1,0 +1,23 @@
+{
+    "name": "SkyNest Flight Dashboard",
+    "dataColors": [
+        "#7650C8",
+        "#69C9AE",
+        "#6EA9F5",
+        "#F4D85A",
+        "#B69AE8",
+        "#8ADCC8",
+        "#9CC5FA",
+        "#F2A6C7"
+    ],
+    "background": "#FFFFFF",
+    "foreground": "#25213A",
+    "tableAccent": "#7650C8",
+    "good": "#69C9AE",
+    "neutral": "#F4D85A",
+    "bad": "#E58B8B",
+    "maximum": "#7650C8",
+    "center": "#9CC5FA",
+    "minimum": "#E9E2F7",
+    "null": "#D9D9E2"
+}
